@@ -28,7 +28,7 @@ twitter_username: example
 github_username:  example
 
 # Build settings
-theme: minima
+theme: Hacker
 plugins:
   - jekyll-feed
 
